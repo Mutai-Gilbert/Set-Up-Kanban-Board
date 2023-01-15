@@ -25,6 +25,7 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 Give a :star:️ if you like this project!
 ## Acknowledgments
+
 - Hat tip to anyone whose code was used
 - Learning to code is learning to create and innovate
 ## :memo: License
